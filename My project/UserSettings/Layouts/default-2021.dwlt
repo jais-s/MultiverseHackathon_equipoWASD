@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 17
+=======
+  controlID: 65
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +227,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 23
+=======
+  controlID: 66
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +256,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 24
+=======
+  controlID: 67
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -346,22 +358,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< Updated upstream
     - Assets/VIsual Object
+=======
+    - Assets/fgdgdfg
+>>>>>>> Stashed changes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< Updated upstream
   - Assets/VIsual Object
+=======
+  - Assets/fgdgdfg
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\programacion\MultiverseHackathon_equipoWASD\My project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 04630000
     m_LastClickedID: 25348
     m_ExpandedIDs: 00000000d4620000d6620000d8620000da6200000463000000ca9a3b
+=======
+    m_SelectedIDs: e0620000
+    m_LastClickedID: 25312
+    m_ExpandedIDs: 00000000d4620000d6620000d8620000da62000000ca9a3b
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -519,7 +545,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 52610000
       m_LastClickedID: 0
+<<<<<<< Updated upstream
       m_ExpandedIDs: c6f6ffff30fbffff
+=======
+      m_ExpandedIDs: 30fbffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -821,9 +851,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.16977465, y: 0.81460154, z: -0.29412624, w: -0.47020292}
   m_Size:
+<<<<<<< Updated upstream
     m_Target: 2.7207463
     speed: 2
     m_Value: 2.7207463
+=======
+    m_Target: 1.1683664
+    speed: 2
+    m_Value: 1.1683664
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 0
     speed: 2
